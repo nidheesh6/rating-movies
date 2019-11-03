@@ -1,5 +1,5 @@
 "# rating-movies" 
-MOVIE RATING PREDICTION BASED ON TWITTER SENTIMENT ANALYSIS 
+#MOVIE RATING PREDICTION BASED ON TWITTER SENTIMENT ANALYSIS 
 Extract number of tweets and compiled to predict the rating scores of newly released movies
 Talks about tweet classification Algorithm and movie rating algorithm
 Movie rating is compared to IMDB and Rotten Tomatoes
